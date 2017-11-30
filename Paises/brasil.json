@@ -1,11 +1,11 @@
 {
-  "country": [
+  "estado": [
     {
-      "initials": "AC",
-      "name": "Acre",
-      "region": "Norte",
+      "sigla": "AC",
+      "nome": "Acre",
+      "região": "Norte",
       "capital": "Rio Branco",
-      "city": [
+      "cidade": [
         "Acrelândia",
         "Assis Brasil",
         "Brasiléia",
@@ -31,11 +31,11 @@
       ]
     },
     {
-      "initials": "AL",
-      "name": "Alagoas",
-      "region": "Nordeste",
+      "sigla": "AL",
+      "nome": "Alagoas",
+      "região": "Nordeste",
       "capital": "Maceió",
-      "city": [
+      "cidade": [
         "Água Branca",
         "Anadia",
         "Arapiraca",
@@ -141,11 +141,11 @@
       ]
     },
     {
-        "initials": "AP",
-        "name": "Amapá",
-        "region": "Norte",
+        "sigla": "AP",
+        "nome": "Amapá",
+        "região": "Norte",
         "capital": "Macapá",
-        "city": [
+        "cidade": [
           "Amapá",
           "Calçoene",
           "Cutias",
@@ -165,11 +165,11 @@
         ]
     },
     {
-      "initials": "AM",
-      "name": "Amazonas",
-      "region": "Norte",
+      "sigla": "AM",
+      "nome": "Amazonas",
+      "região": "Norte",
       "capital": "Manaus",
-      "city": [
+      "cidade": [
         "Alvarães",
         "Amaturá",
         "Anamã",
@@ -235,11 +235,11 @@
       ]
     },
     {
-      "initials": "BA",
-      "name": "Bahia",
-      "region": "Nordeste",
+      "sigla": "BA",
+      "nome": "Bahia",
+      "região": "Nordeste",
       "capital": "Salvador",
-      "city": [
+      "cidade": [
         "Abaíra",
         "Abaré",
         "Acajutiba",
@@ -660,11 +660,11 @@
       ]
     },
     {
-      "initials": "CE",
-      "name": "Ceará",
-      "region": "Nordeste",
+      "sigla": "CE",
+      "nome": "Ceará",
+      "região": "Nordeste",
       "capital": "Fortaleza",
-      "city": [
+      "cidade": [
         "Abaiara",
         "Acarapé",
         "Acaraú",
@@ -852,20 +852,20 @@
       ]
     },
     {
-      "initials": "DF",
-      "name": "Distrito Federal",
-      "region": "Centro-Oeste",
+      "sigla": "DF",
+      "nome": "Distrito Federal",
+      "região": "Centro-Oeste",
       "capital": "Brasília",
-      "city": [
+      "cidade": [
         "Brasília"
       ]
     },
     {
-      "initials": "ES",
-      "name": "Espírito Santo",
-      "region": "Sudeste",
+      "sigla": "ES",
+      "nome": "Espírito Santo",
+      "região": "Sudeste",
       "capital": "Vitória",
-      "city": [
+      "cidade": [
         "Afonso Cláudio",
         "Água Doce do Norte",
         "Águia Branca",
@@ -947,11 +947,11 @@
       ]
     },
     {
-      "initials": "GO",
-      "name": "Goiás",
-      "region": "Centro-Oeste",
+      "sigla": "GO",
+      "nome": "Goiás",
+      "região": "Centro-Oeste",
       "capital": "Goiânia",
-      "city": [
+      "cidade": [
         "Abadia de Goiás",
         "Abadiânia",
         "Acreúna",
@@ -1201,11 +1201,11 @@
       ]
     },
     {
-      "initials": "MA",
-      "name": "Maranhão",
-      "region": "Nordeste",
+      "sigla": "MA",
+      "nome": "Maranhão",
+      "região": "Nordeste",
       "capital": "São Luiz",
-      "city": [
+      "cidade": [
         "Açailândia",
         "Afonso Cunha",
         "Água Doce do Maranhão",
@@ -1426,11 +1426,11 @@
       ]
     },
     {
-      "initials": "MG",
-      "name": "Minas Gerais",
-      "region": "Sudeste",
+      "sigla": "MG",
+      "nome": "Minas Gerais",
+      "região": "Sudeste",
       "capital": "Belo Horizonte",
-      "city": [
+      "cidade": [
         "Abadia dos Dourados",
         "Abaeté",
         "Abre Campo",
@@ -2287,11 +2287,11 @@
       ]
     },
     {
-      "initials": "MS",
-      "name": "Mato Grosso do Sul",
-      "region": "Centro-Oeste",
+      "sigla": "MS",
+      "nome": "Mato Grosso do Sul",
+      "região": "Centro-Oeste",
       "capital": "Campo Grande",
-      "city": [
+      "cidade": [
         "Água Clara",
         "Alcinópolis",
         "Amambaí",
@@ -2372,11 +2372,11 @@
       ]
     },
     {
-      "initials": "MT",
-      "name": "Mato Grosso",
-      "region": "Centro-Oeste",
+      "sigla": "MT",
+      "nome": "Mato Grosso",
+      "região": "Centro-Oeste",
       "capital": "Cuiabá",
-      "city": [
+      "cidade": [
         "Acorizal",
         "Água Boa",
         "Alta Floresta",
@@ -2519,11 +2519,11 @@
       ]
     },
     {
-      "initials": "PA",
-      "name": "Pará",
-      "region": "Norte",
+      "sigla": "PA",
+      "nome": "Pará",
+      "região": "Norte",
       "capital": "Belém",
-      "city": [
+      "cidade": [
         "Abaetetuba",
         "Abel Figueiredo",
         "Acará",
@@ -2670,11 +2670,11 @@
       ]
     },
     {
-      "initials": "PB",
-      "name": "Paraíba",
-      "region": "Nordeste",
+      "sigla": "PB",
+      "nome": "Paraíba",
+      "região": "Nordeste",
       "capital": "João Pessoa",
-      "city": [
+      "cidade": [
         "Água Branca",
         "Aguiar",
         "Alagoa Grande",
@@ -2901,11 +2901,11 @@
       ]
     },
     {
-      "initials": "PE",
-      "name": "Pernambuco",
-      "region": "Nordeste",
+      "sigla": "PE",
+      "nome": "Pernambuco",
+      "região": "Nordeste",
       "capital": "Recife",
-      "city": [
+      "cidade": [
         "Abreu e Lima",
         "Afogados da Ingazeira",
         "Afrânio",
@@ -3094,11 +3094,11 @@
       ]
     },
     {
-      "initials": "PI",
-      "name": "Piauí",
-      "region": "Nordeste",
+      "sigla": "PI",
+      "nome": "Piauí",
+      "região": "Nordeste",
       "capital": "Teresina",
-      "city": [
+      "cidade": [
         "Acauã",
         "Agricolândia",
         "Água Branca",
@@ -3324,11 +3324,11 @@
       ]
     },
     {
-      "initials": "PR",
-      "name": "Paraná",
-      "region": "Sul",
+      "sigla": "PR",
+      "nome": "Paraná",
+      "região": "Sul",
       "capital": "Curitiba",
-      "city": [
+      "cidade": [
         "Abatiá",
         "Adrianópolis",
         "Agudos do Sul",
@@ -3731,11 +3731,11 @@
       ]
     },
     {
-      "initials": "RJ",
-      "name": "Rio de Janeiro",
-      "region": "Sudeste",
+      "sigla": "RJ",
+      "nome": "Rio de Janeiro",
+      "região": "Sudeste",
       "capital": "Rio de Janeiro",
-      "city": [
+      "cidade": [
         "Angra dos Reis",
         "Aperibé",
         "Araruama",
@@ -3831,11 +3831,11 @@
       ]
     },
     {
-      "initials": "RN",
-      "name": "Rio Grande do Norte",
-      "region": "Nordeste",
+      "sigla": "RN",
+      "nome": "Rio Grande do Norte",
+      "região": "Nordeste",
       "capital": "Natal",
-      "city": [
+      "cidade": [
         "Acari",
         "Açu",
         "Afonso Bezerra",
@@ -4006,11 +4006,11 @@
       ]
     },
     {
-      "initials": "RO",
-      "name": "Rondônia",
-      "region": "Norte",
+      "sigla": "RO",
+      "nome": "Rondônia",
+      "região": "Norte",
       "capital": "Porto Velho",
-      "city": [
+      "cidade": [
         "Alta Floresta d'Oeste",
         "Alto Alegre do Parecis",
         "Alto Paraíso",
@@ -4066,11 +4066,11 @@
       ]
     },
     {
-      "initials": "RR",
-      "name": "Roraima",
-      "region": "Norte",
+      "sigla": "RR",
+      "nome": "Roraima",
+      "região": "Norte",
       "capital": "Boa Vista",
-      "city": [
+      "cidade": [
         "Alto Alegre",
         "Amajari",
         "Boa Vista",
@@ -4089,11 +4089,11 @@
       ]
     },
     {
-      "initials": "RS",
-      "name": "Rio Grande do Sul",
-      "region": "Sul",
+      "sigla": "RS",
+      "nome": "Rio Grande do Sul",
+      "região": "Sul",
       "capital": "Porto Alegre",
-      "city": [
+      "cidade": [
         "Aceguá",
         "Água Santa",
         "Agudo",
@@ -4593,11 +4593,11 @@
       ]
     },
     {
-      "initials": "SC",
-      "name": "Santa Catarina",
-      "region": "Sul",
+      "sigla": "SC",
+      "nome": "Santa Catarina",
+      "região": "Sul",
       "capital": "Florianópolis",
-      "city": [
+      "cidade": [
         "Abdon Batista",
         "Abelardo Luz",
         "Agrolândia",
@@ -4894,11 +4894,11 @@
       ]
     },
     {
-      "initials": "SE",
-      "name": "Sergipe",
-      "region": "Nordeste",
+      "sigla": "SE",
+      "nome": "Sergipe",
+      "região": "Nordeste",
       "capital": "Aracaju",
-      "city": [
+      "cidade": [
         "Amparo de São Francisco",
         "Aquidabã",
         "Aracaju",
@@ -4977,11 +4977,11 @@
       ]
     },
     {
-      "initials": "SP",
-      "name": "São Paulo",
-      "region": "Sudeste",
+      "sigla": "SP",
+      "nome": "São Paulo",
+      "região": "Sudeste",
       "capital": "São Paulo",
-      "city": [
+      "cidade": [
         "Adamantina",
         "Adolfo",
         "Aguaí",
@@ -5630,11 +5630,11 @@
       ]
     },
     {
-      "initials": "TO",
-      "name": "Tocantins",
-      "region": "Norte",
+      "sigla": "TO",
+      "nome": "Tocantins",
+      "região": "Norte",
       "capital": "Palmas",
-      "city": [
+      "cidade": [
         "Abreulândia",
         "Aguiarnópolis",
         "Aliança do Tocantins",
