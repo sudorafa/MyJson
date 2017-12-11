@@ -7,6 +7,7 @@
       "capital": "Rio Branco",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/acre.png",
       "city": [
+		"CAPITAL: Rio Branco",
         "Acrelândia",
         "Assis Brasil",
         "Brasiléia",
@@ -38,6 +39,7 @@
       "capital": "Maceió",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/alagoas.png",
       "city": [
+	    "CAPITAL: Maceió",
         "Água Branca",
         "Anadia",
         "Arapiraca",
@@ -149,6 +151,7 @@
         "capital": "Macapá",
 		"img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/amapa.png",
         "city": [
+		  "CAPITAL: Macapá",
           "Amapá",
           "Calçoene",
           "Cutias",
@@ -174,6 +177,7 @@
       "capital": "Manaus",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/amazonas.png",
       "city": [
+	    "CAPITAL: Manaus",
         "Alvarães",
         "Amaturá",
         "Anamã",
@@ -245,6 +249,7 @@
       "capital": "Salvador",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/bahia.png",
       "city": [
+	    "CAPITAL: Salvador",
         "Abaíra",
         "Abaré",
         "Acajutiba",
@@ -671,6 +676,7 @@
       "capital": "Fortaleza",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/ceara.png",
       "city": [
+	    "CAPITAL: Fortaleza",
         "Abaiara",
         "Acarapé",
         "Acaraú",
@@ -874,6 +880,7 @@
       "capital": "Vitória",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/espirito_santo.png",
       "city": [
+	    "CAPITAL: Vitória",
         "Afonso Cláudio",
         "Água Doce do Norte",
         "Águia Branca",
@@ -961,6 +968,7 @@
       "capital": "Goiânia",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/goias.png",
       "city": [
+	    "CAPITAL: Goiânia",
         "Abadia de Goiás",
         "Abadiânia",
         "Acreúna",
@@ -1216,6 +1224,7 @@
       "capital": "São Luiz",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/maranhao.png",
       "city": [
+	    "CAPITAL: São Luiz",
         "Açailândia",
         "Afonso Cunha",
         "Água Doce do Maranhão",
@@ -1442,6 +1451,7 @@
       "capital": "Belo Horizonte",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/minas_gerais.png",
       "city": [
+		"CAPITAL: Belo Horizonte",
         "Abadia dos Dourados",
         "Abaeté",
         "Abre Campo",
@@ -2304,6 +2314,7 @@
       "capital": "Campo Grande",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/mato_grosso_do_sul.png",
       "city": [
+	    "CAPITAL: Campo Grande",
         "Água Clara",
         "Alcinópolis",
         "Amambaí",
@@ -2390,6 +2401,7 @@
       "capital": "Cuiabá",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/mato_grosso.png",
       "city": [
+	    "CAPITAL: Cuiabá",
         "Acorizal",
         "Água Boa",
         "Alta Floresta",
@@ -2538,6 +2550,7 @@
       "capital": "Belém",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/para.png",
       "city": [
+	    "CAPITAL: Belém",
         "Abaetetuba",
         "Abel Figueiredo",
         "Acará",
@@ -2690,6 +2703,7 @@
       "capital": "João Pessoa",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/paraiba.png",
       "city": [
+	    "CAPITAL: João Pessoa",
         "Água Branca",
         "Aguiar",
         "Alagoa Grande",
@@ -2922,6 +2936,7 @@
       "capital": "Recife",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/pernambuco.png",
       "city": [
+	    "CAPITAL: Recife",
         "Abreu e Lima",
         "Afogados da Ingazeira",
         "Afrânio",
@@ -3116,6 +3131,7 @@
       "capital": "Teresina",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/piaui.png",
       "city": [
+	    "CAPITAL: Teresina",
         "Acauã",
         "Agricolândia",
         "Água Branca",
@@ -3347,6 +3363,7 @@
       "capital": "Curitiba",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/parana.png",
       "city": [
+	    "CAPITAL: Curitiba",
         "Abatiá",
         "Adrianópolis",
         "Agudos do Sul",
@@ -3755,6 +3772,7 @@
       "capital": "Rio de Janeiro",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/rio_de_janeiro.png",
       "city": [
+	    "CAPITAL: Rio de Janeiro",
         "Angra dos Reis",
         "Aperibé",
         "Araruama",
@@ -3856,6 +3874,7 @@
       "capital": "Natal",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/rio_grande_do_norte.png",
       "city": [
+	    "CAPITAL: Natal",
         "Acari",
         "Açu",
         "Afonso Bezerra",
@@ -4032,6 +4051,7 @@
       "capital": "Porto Velho",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/rondonia.png",
       "city": [
+	    "CAPITAL: Porto Velho",
         "Alta Floresta d'Oeste",
         "Alto Alegre do Parecis",
         "Alto Paraíso",
@@ -4093,6 +4113,7 @@
       "capital": "Boa Vista",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/roraima.png",
       "city": [
+	    "CAPITAL: Boa Vista",
         "Alto Alegre",
         "Amajari",
         "Boa Vista",
@@ -4117,6 +4138,7 @@
       "capital": "Porto Alegre",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/rio_grande_do_sul.png",
       "city": [
+	    "CAPITAL: Porto Alegre",
         "Aceguá",
         "Água Santa",
         "Agudo",
@@ -4622,6 +4644,7 @@
       "capital": "Florianópolis",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/santa_catarina.png",
       "city": [
+	    "CAPITAL: Florianópolis",
         "Abdon Batista",
         "Abelardo Luz",
         "Agrolândia",
@@ -4924,6 +4947,7 @@
       "capital": "Aracaju",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/sergipe.png",
       "city": [
+	    "CAPITAL: Aracaju",
         "Amparo de São Francisco",
         "Aquidabã",
         "Aracaju",
@@ -5008,6 +5032,7 @@
       "capital": "São Paulo",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/sao_paulo.png",
       "city": [
+	    "CAPITAL: São Paulo",
         "Adamantina",
         "Adolfo",
         "Aguaí",
@@ -5662,6 +5687,7 @@
       "capital": "Palmas",
 	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/master/Country/img/tocantins.png",
       "city": [
+	    "CAPITAL: Palmas",
         "Abreulândia",
         "Aguiarnópolis",
         "Aliança do Tocantins",
