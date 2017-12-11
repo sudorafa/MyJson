@@ -5,6 +5,7 @@
       "name": "Acre",
       "region": "Norte",
       "capital": "Rio Branco",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/acre.png",
       "city": [
         "Acrelândia",
         "Assis Brasil",
@@ -35,6 +36,7 @@
       "name": "Alagoas",
       "region": "Nordeste",
       "capital": "Maceió",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/alagoas.png",
       "city": [
         "Água Branca",
         "Anadia",
@@ -145,6 +147,7 @@
         "name": "Amapá",
         "region": "Norte",
         "capital": "Macapá",
+		"img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/amapa.png",
         "city": [
           "Amapá",
           "Calçoene",
@@ -169,6 +172,7 @@
       "name": "Amazonas",
       "region": "Norte",
       "capital": "Manaus",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/amazonas.png",
       "city": [
         "Alvarães",
         "Amaturá",
@@ -239,6 +243,7 @@
       "name": "Bahia",
       "region": "Nordeste",
       "capital": "Salvador",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/bahia.png",
       "city": [
         "Abaíra",
         "Abaré",
@@ -664,6 +669,7 @@
       "name": "Ceará",
       "region": "Nordeste",
       "capital": "Fortaleza",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/ceara.png",
       "city": [
         "Abaiara",
         "Acarapé",
@@ -856,6 +862,7 @@
       "name": "Distrito Federal",
       "region": "Centro-Oeste",
       "capital": "Brasília",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/distrito_federal.png",
       "city": [
         "Brasília"
       ]
@@ -865,6 +872,7 @@
       "name": "Espírito Santo",
       "region": "Sudeste",
       "capital": "Vitória",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/espirito_santo.png",
       "city": [
         "Afonso Cláudio",
         "Água Doce do Norte",
@@ -951,6 +959,7 @@
       "name": "Goiás",
       "region": "Centro-Oeste",
       "capital": "Goiânia",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/goias.png",
       "city": [
         "Abadia de Goiás",
         "Abadiânia",
@@ -1205,6 +1214,7 @@
       "name": "Maranhão",
       "region": "Nordeste",
       "capital": "São Luiz",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/maranhao.png",
       "city": [
         "Açailândia",
         "Afonso Cunha",
@@ -1430,6 +1440,7 @@
       "name": "Minas Gerais",
       "region": "Sudeste",
       "capital": "Belo Horizonte",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/minas_gerais.png",
       "city": [
         "Abadia dos Dourados",
         "Abaeté",
@@ -2291,6 +2302,7 @@
       "name": "Mato Grosso do Sul",
       "region": "Centro-Oeste",
       "capital": "Campo Grande",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/mato_grosso_do_sul.png",
       "city": [
         "Água Clara",
         "Alcinópolis",
@@ -2376,6 +2388,7 @@
       "name": "Mato Grosso",
       "region": "Centro-Oeste",
       "capital": "Cuiabá",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/mato_grosso.png",
       "city": [
         "Acorizal",
         "Água Boa",
@@ -2523,6 +2536,7 @@
       "name": "Pará",
       "region": "Norte",
       "capital": "Belém",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/para.png",
       "city": [
         "Abaetetuba",
         "Abel Figueiredo",
@@ -2674,6 +2688,7 @@
       "name": "Paraíba",
       "region": "Nordeste",
       "capital": "João Pessoa",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/paraiba.png",
       "city": [
         "Água Branca",
         "Aguiar",
@@ -2905,6 +2920,7 @@
       "name": "Pernambuco",
       "region": "Nordeste",
       "capital": "Recife",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/pernambuco.png",
       "city": [
         "Abreu e Lima",
         "Afogados da Ingazeira",
@@ -3098,6 +3114,7 @@
       "name": "Piauí",
       "region": "Nordeste",
       "capital": "Teresina",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/piaui.png",
       "city": [
         "Acauã",
         "Agricolândia",
@@ -3328,6 +3345,7 @@
       "name": "Paraná",
       "region": "Sul",
       "capital": "Curitiba",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/parana.png",
       "city": [
         "Abatiá",
         "Adrianópolis",
@@ -3735,6 +3753,7 @@
       "name": "Rio de Janeiro",
       "region": "Sudeste",
       "capital": "Rio de Janeiro",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/rio_de_janeiro.png",
       "city": [
         "Angra dos Reis",
         "Aperibé",
@@ -3835,6 +3854,7 @@
       "name": "Rio Grande do Norte",
       "region": "Nordeste",
       "capital": "Natal",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/rio_grande_do_norte.png",
       "city": [
         "Acari",
         "Açu",
@@ -4010,6 +4030,7 @@
       "name": "Rondônia",
       "region": "Norte",
       "capital": "Porto Velho",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/rondonia.png",
       "city": [
         "Alta Floresta d'Oeste",
         "Alto Alegre do Parecis",
@@ -4070,6 +4091,7 @@
       "name": "Roraima",
       "region": "Norte",
       "capital": "Boa Vista",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/roraima.png",
       "city": [
         "Alto Alegre",
         "Amajari",
@@ -4093,6 +4115,7 @@
       "name": "Rio Grande do Sul",
       "region": "Sul",
       "capital": "Porto Alegre",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/rio_grande_do_sul.png",
       "city": [
         "Aceguá",
         "Água Santa",
@@ -4597,6 +4620,7 @@
       "name": "Santa Catarina",
       "region": "Sul",
       "capital": "Florianópolis",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/santa_catarina.png",
       "city": [
         "Abdon Batista",
         "Abelardo Luz",
@@ -4898,6 +4922,7 @@
       "name": "Sergipe",
       "region": "Nordeste",
       "capital": "Aracaju",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/sergipe.png",
       "city": [
         "Amparo de São Francisco",
         "Aquidabã",
@@ -4981,6 +5006,7 @@
       "name": "São Paulo",
       "region": "Sudeste",
       "capital": "São Paulo",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/sao_paulo.png",
       "city": [
         "Adamantina",
         "Adolfo",
@@ -5634,6 +5660,7 @@
       "name": "Tocantins",
       "region": "Norte",
       "capital": "Palmas",
+	  "img": "https://raw.githubusercontent.com/sudorafa/MyJson/e0fd84446049ccb85335b79e3b966c7cec4d8d7e/Country/img/tocantins.png",
       "city": [
         "Abreulândia",
         "Aguiarnópolis",
